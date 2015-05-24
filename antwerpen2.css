@@ -228,9 +228,17 @@ font-size: 51px;
      #sportoase .button {
         margin-left: 13%;
     }
+  #flandriaboot {
+        top: 1366px;
+    }  
+    
 }
 
 @media only screen and (min-width: 1297px) and (max-width: 1348px) {
+    #flandriaboot {
+        top: 1335px;
+    }
+    
     .button{
         margin: 2% 2% 4% 16%;
   width: 6%;
@@ -258,6 +266,10 @@ font-size: 51px;
 }
     
 @media only screen and (min-width: 1147px) and (max-width: 1296px) {
+    #flandriaboot {
+        top: 1304px;
+    }
+ 
 .button{
 margin: 2% 0% 4% 11%;
   width: 6%;
@@ -309,6 +321,10 @@ margin: 2% 0% 4% 11%;
     #flandriaboot{
     top:1263px;
     }
+    
+    #jeugdbeweging h1 {
+font-size: 45px;
+}
 }
 @media only screen and (min-width: 800px) and (max-width: 1146px) {
 .button{
@@ -316,9 +332,21 @@ margin: 2% 0% 4% 7%;
   width: 6%;
     }
     
+      #jeugdbeweging h1 {
+          font-size: 35px;}
+    
+    #sporthal h1 {
+        font-size: 46px;
+        
+    
+    }
     .hotspot_content p {
         margin-right: 7%;
         font-size: 1.2em;
+    }
+    
+    #jeugdbeweging p {
+        width: 51%;
     }
     
     .afb_inline {
@@ -326,7 +354,7 @@ margin: 2% 0% 4% 7%;
     }
     
     .linkerkant h1{
-        font-size: 16px;
+        font-size: 48px;
     }
     
      #sportoase .button {
@@ -351,11 +379,11 @@ margin: 2% 0% 4% 7%;
     }
     
     #kinderwerking h1{
-        font-size: 41px;
+        font-size: 34px;
     }
     
     #kinderwerking p{
-        width: 54%
+        width: 55%;
     }
     
     #kinderwerking .button {
